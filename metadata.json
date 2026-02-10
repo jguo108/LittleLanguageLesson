@@ -1,0 +1,8 @@
+{
+  "name": "SnapLearn English",
+  "description": "Learn English by snapping photos of your surroundings. AI identifies objects and teaches you pronunciation and usage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
